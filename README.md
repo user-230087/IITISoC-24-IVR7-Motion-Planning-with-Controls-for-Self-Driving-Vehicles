@@ -1,4 +1,4 @@
-# IITISoC-24-IVR4-Motion-Planning-with-Controls-for-Self-Driving-Vehicles
+# IITISoC-24-IVR7-Motion-Planning-with-Controls-for-Self-Driving-Vehicles
 
 ## Goal:
 To develop a reliable Motion Planner with Control algorithms for collision-free path planning and efficient navigation in a simulated environment.
