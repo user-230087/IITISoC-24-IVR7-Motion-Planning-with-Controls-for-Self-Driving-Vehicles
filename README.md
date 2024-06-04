@@ -11,6 +11,5 @@ Mentors:
 
 Members:
 - [M N Yugendran](https://github.com/user-230087)
-<br>
 - [Pohrselvan ss](https://github.com/pohrselvan)
 
