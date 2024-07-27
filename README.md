@@ -46,6 +46,7 @@ On opening the .pgm file the map we get
 ### Path Planning
 
 ### Control Algorithm
+PID algorithm is used
 
 
 
