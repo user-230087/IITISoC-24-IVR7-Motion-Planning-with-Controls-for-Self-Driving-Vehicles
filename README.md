@@ -14,7 +14,7 @@ Members:
 - [M N Yugendran](https://github.com/user-230087)
 - [Pohrselvan ss](https://github.com/pohrselvan)
 - [Swarangi Kale](https://github.com/Swarangi-codes)
-- [Jagrit]
+- [Jagrit](https://github.com/idJagrit)
 
 ## Project Overview & Solution:
 A three-wheeled vehicle is modeled and is visualized in gazebo simulator and RViz. The world file provided is mapped using Simeltaneous Mapping and Loacalization (SLAM) method. For Path planning RRT* and A* algorithms were used on the map generated and PID algorithm is used for control algorithm. 
